@@ -6,7 +6,7 @@
 
     <string name="feat_search_friends_title">Search a friend</string>
 
-    <string name="feat_main_login">Login</string>
+    <string name="feat_main_login">Login to TheSocialNetwork</string>
     <string name="feat_main_sign_up">Sign Up</string>
     <string name="feat_main_forgot_password">Forgot password</string>
     <string name="feat_main_reset_password">Reset password</string>
