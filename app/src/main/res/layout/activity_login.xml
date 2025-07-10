@@ -37,13 +37,15 @@
 
         <androidx.appcompat.widget.AppCompatButton
             android:id="@+id/google"
+            style="@style/TheSocialNetwork.Widget.Button.Google"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginBottom="@dimen/space_large"
             android:background="@drawable/background_login_google"
-            android:elevation="0dp"
+            android:gravity="center"
+            android:paddingHorizontal="36dp"
             android:text="@string/feat_login_google"
-            android:textAppearance="@style/TheSocialNetwork.TextStyle"
+            app:drawableStartCompat="@drawable/ic_google"
             app:layout_constraintBottom_toTopOf="@id/register" />
 
         <TextView
